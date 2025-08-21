@@ -1,0 +1,316 @@
+Date,Product,Units_Sold,Unit_Price,Colour,Total_Revenu
+2025-07-01,Pen,31,2,Blue,62
+2025-07-01,Notebook,27,20,Black,540
+2025-07-01,Eraser,24,3,Red,72
+2025-07-01,Coloured Sheet,7,8,Green,56
+2025-07-01,Decoration Material,30,15,Purple,450
+2025-07-02,Pen,9,2,Red,18
+2025-07-02,Notebook,37,20,Yellow,740
+2025-07-02,Eraser,23,3,Blue,69
+2025-07-02,Coloured Sheet,7,8,Red,56
+2025-07-02,Decoration Material,24,15,Red,360
+2025-07-03,Pen,22,2,Black,44
+2025-07-03,Notebook,28,20,Red,560
+2025-07-03,Eraser,9,3,Yellow,27
+2025-07-03,Coloured Sheet,30,8,Green,240
+2025-07-03,Decoration Material,19,15,Purple,285
+2025-07-04,Pen,10,2,Black,20
+2025-07-04,Notebook,29,20,Yellow,580
+2025-07-04,Eraser,39,3,Yellow,117
+2025-07-04,Coloured Sheet,26,8,Black,208
+2025-07-04,Decoration Material,23,15,Red,345
+2025-07-05,Pen,37,2,Blue,74
+2025-07-05,Notebook,30,20,Blue,600
+2025-07-05,Eraser,9,3,Blue,27
+2025-07-05,Coloured Sheet,40,8,Black,320
+2025-07-05,Decoration Material,33,15,Purple,495
+2025-07-06,Pen,30,2,Purple,60
+2025-07-06,Notebook,23,20,Red,460
+2025-07-06,Eraser,22,3,Yellow,66
+2025-07-06,Coloured Sheet,22,8,Purple,176
+2025-07-06,Decoration Material,11,15,Blue,165
+2025-07-07,Pen,4,2,Red,8
+2025-07-07,Notebook,26,20,Blue,520
+2025-07-07,Eraser,24,3,Yellow,72
+2025-07-07,Coloured Sheet,38,8,Blue,304
+2025-07-07,Decoration Material,3,15,Purple,45
+2025-07-08,Pen,18,2,Black,36
+2025-07-08,Notebook,20,20,Yellow,400
+2025-07-08,Eraser,29,3,Green,87
+2025-07-08,Coloured Sheet,33,8,Black,264
+2025-07-08,Decoration Material,35,15,Yellow,525
+2025-07-09,Pen,18,2,Yellow,36
+2025-07-09,Notebook,39,20,Blue,780
+2025-07-09,Eraser,20,3,Red,60
+2025-07-09,Coloured Sheet,21,8,Green,168
+2025-07-09,Decoration Material,21,15,Yellow,315
+2025-07-10,Pen,32,2,Yellow,64
+2025-07-10,Notebook,34,20,Black,680
+2025-07-10,Eraser,16,3,Blue,48
+2025-07-10,Coloured Sheet,13,8,Red,104
+2025-07-10,Decoration Material,28,15,Green,420
+2025-07-11,Pen,20,2,Blue,40
+2025-07-11,Notebook,31,20,Blue,620
+2025-07-11,Eraser,14,3,Red,42
+2025-07-11,Coloured Sheet,13,8,Yellow,104
+2025-07-11,Decoration Material,34,15,Black,510
+2025-07-12,Pen,37,2,Yellow,74
+2025-07-12,Notebook,23,20,Blue,460
+2025-07-12,Eraser,24,3,Yellow,72
+2025-07-12,Coloured Sheet,6,8,Blue,48
+2025-07-12,Decoration Material,12,15,Red,180
+2025-07-13,Pen,25,2,Blue,50
+2025-07-13,Notebook,28,20,Black,560
+2025-07-13,Eraser,18,3,Green,54
+2025-07-13,Coloured Sheet,4,8,Yellow,32
+2025-07-13,Decoration Material,18,15,Green,270
+2025-07-14,Pen,20,2,Yellow,40
+2025-07-14,Notebook,25,20,Blue,500
+2025-07-14,Eraser,7,3,Red,21
+2025-07-14,Coloured Sheet,9,8,Black,72
+2025-07-14,Decoration Material,9,15,Yellow,135
+2025-07-15,Pen,28,2,Red,56
+2025-07-15,Notebook,38,20,Black,760
+2025-07-15,Eraser,14,3,Green,42
+2025-07-15,Coloured Sheet,33,8,Black,264
+2025-07-15,Decoration Material,36,15,Blue,540
+2025-07-16,Pen,6,2,Purple,12
+2025-07-16,Notebook,11,20,Black,220
+2025-07-16,Eraser,31,3,Blue,93
+2025-07-16,Coloured Sheet,7,8,Yellow,56
+2025-07-16,Decoration Material,28,15,Purple,420
+2025-07-17,Pen,13,2,Yellow,26
+2025-07-17,Notebook,19,20,Purple,380
+2025-07-17,Eraser,22,3,Black,66
+2025-07-17,Coloured Sheet,21,8,Red,168
+2025-07-17,Decoration Material,37,15,Green,555
+2025-07-18,Pen,31,2,Red,62
+2025-07-18,Notebook,21,20,Red,420
+2025-07-18,Eraser,23,3,Green,69
+2025-07-18,Coloured Sheet,12,8,Yellow,96
+2025-07-18,Decoration Material,18,15,Green,270
+2025-07-19,Pen,3,2,Red,6
+2025-07-19,Notebook,17,20,Yellow,340
+2025-07-19,Eraser,12,3,Green,36
+2025-07-19,Coloured Sheet,20,8,Purple,160
+2025-07-19,Decoration Material,29,15,Purple,435
+2025-07-20,Pen,15,2,Black,30
+2025-07-20,Notebook,4,20,Red,80
+2025-07-20,Eraser,22,3,Purple,66
+2025-07-20,Coloured Sheet,32,8,Purple,256
+2025-07-20,Decoration Material,15,15,Purple,225
+2025-07-21,Pen,30,2,Purple,60
+2025-07-21,Notebook,16,20,Red,320
+2025-07-21,Eraser,4,3,Red,12
+2025-07-21,Coloured Sheet,14,8,Black,112
+2025-07-21,Decoration Material,6,15,Purple,90
+2025-07-22,Pen,33,2,Red,66
+2025-07-22,Notebook,17,20,Blue,340
+2025-07-22,Eraser,37,3,Green,111
+2025-07-22,Coloured Sheet,39,8,Red,312
+2025-07-22,Decoration Material,27,15,Green,405
+2025-07-23,Pen,36,2,Green,72
+2025-07-23,Notebook,6,20,Black,120
+2025-07-23,Eraser,15,3,Purple,45
+2025-07-23,Coloured Sheet,6,8,Green,48
+2025-07-23,Decoration Material,17,15,Green,255
+2025-07-24,Pen,37,2,Yellow,74
+2025-07-24,Notebook,4,20,Black,80
+2025-07-24,Eraser,21,3,Red,63
+2025-07-24,Coloured Sheet,16,8,Yellow,128
+2025-07-24,Decoration Material,18,15,Green,270
+2025-07-25,Pen,19,2,Black,38
+2025-07-25,Notebook,7,20,Blue,140
+2025-07-25,Eraser,23,3,Red,69
+2025-07-25,Coloured Sheet,30,8,Blue,240
+2025-07-25,Decoration Material,24,15,Purple,360
+2025-07-26,Pen,25,2,Blue,50
+2025-07-26,Notebook,37,20,Black,740
+2025-07-26,Eraser,28,3,Green,84
+2025-07-26,Coloured Sheet,28,8,Purple,224
+2025-07-26,Decoration Material,9,15,Yellow,135
+2025-07-27,Pen,25,2,Black,50
+2025-07-27,Notebook,35,20,Yellow,700
+2025-07-27,Eraser,33,3,Green,99
+2025-07-27,Coloured Sheet,8,8,Black,64
+2025-07-27,Decoration Material,27,15,Yellow,405
+2025-07-28,Pen,30,2,Yellow,60
+2025-07-28,Notebook,29,20,Yellow,580
+2025-07-28,Eraser,15,3,Red,45
+2025-07-28,Coloured Sheet,40,8,Yellow,320
+2025-07-28,Decoration Material,8,15,Blue,120
+2025-07-29,Pen,35,2,Yellow,70
+2025-07-29,Notebook,36,20,Blue,720
+2025-07-29,Eraser,12,3,Yellow,36
+2025-07-29,Coloured Sheet,34,8,Blue,272
+2025-07-29,Decoration Material,34,15,Blue,510
+2025-07-30,Pen,26,2,Yellow,52
+2025-07-30,Notebook,35,20,Black,700
+2025-07-30,Eraser,12,3,Black,36
+2025-07-30,Coloured Sheet,6,8,Yellow,48
+2025-07-30,Decoration Material,28,15,Black,420
+2025-07-31,Pen,15,2,Red,30
+2025-07-31,Notebook,25,20,Yellow,500
+2025-07-31,Eraser,23,3,Green,69
+2025-07-31,Coloured Sheet,23,8,Purple,184
+2025-07-31,Decoration Material,5,15,Yellow,75
+2025-08-01,Pen,31,2,Blue,62
+2025-08-01,Notebook,21,20,Purple,420
+2025-08-01,Eraser,32,3,Yellow,96
+2025-08-01,Coloured Sheet,25,8,Purple,200
+2025-08-01,Decoration Material,6,15,Red,90
+2025-08-02,Pen,9,2,Blue,18
+2025-08-02,Notebook,37,20,Black,740
+2025-08-02,Eraser,23,3,Black,69
+2025-08-02,Coloured Sheet,29,8,Green,232
+2025-08-02,Decoration Material,30,15,Yellow,450
+2025-08-03,Pen,18,2,Black,36
+2025-08-03,Notebook,40,20,Red,800
+2025-08-03,Eraser,35,3,Red,105
+2025-08-03,Coloured Sheet,37,8,Purple,296
+2025-08-03,Decoration Material,18,15,Blue,270
+2025-08-04,Pen,37,2,Blue,74
+2025-08-04,Notebook,15,20,Green,300
+2025-08-04,Eraser,4,3,Red,12
+2025-08-04,Coloured Sheet,13,8,Red,104
+2025-08-04,Decoration Material,15,15,Green,225
+2025-08-05,Pen,14,2,Red,28
+2025-08-05,Notebook,30,20,Blue,600
+2025-08-05,Eraser,40,3,Yellow,120
+2025-08-05,Coloured Sheet,29,8,Purple,232
+2025-08-05,Decoration Material,29,15,Blue,435
+2025-08-06,Pen,26,2,Purple,52
+2025-08-06,Notebook,7,20,Blue,140
+2025-08-06,Eraser,28,3,Purple,84
+2025-08-06,Coloured Sheet,37,8,Black,296
+2025-08-06,Decoration Material,38,15,Blue,570
+2025-08-07,Pen,16,2,Red,32
+2025-08-07,Notebook,8,20,Purple,160
+2025-08-07,Eraser,37,3,Red,111
+2025-08-07,Coloured Sheet,23,8,Black,184
+2025-08-07,Decoration Material,17,15,Purple,255
+2025-08-08,Pen,20,2,Green,40
+2025-08-08,Notebook,25,20,Black,500
+2025-08-08,Eraser,35,3,Purple,105
+2025-08-08,Coloured Sheet,29,8,Yellow,232
+2025-08-08,Decoration Material,38,15,Yellow,570
+2025-08-09,Pen,28,2,Black,56
+2025-08-09,Notebook,26,20,Red,520
+2025-08-09,Eraser,10,3,Yellow,30
+2025-08-09,Coloured Sheet,7,8,Blue,56
+2025-08-09,Decoration Material,19,15,Black,285
+2025-08-10,Pen,33,2,Black,66
+2025-08-10,Notebook,26,20,Red,520
+2025-08-10,Eraser,13,3,Black,39
+2025-08-10,Coloured Sheet,28,8,Yellow,224
+2025-08-10,Decoration Material,14,15,Yellow,210
+2025-08-11,Pen,22,2,Blue,44
+2025-08-11,Notebook,24,20,Purple,480
+2025-08-11,Eraser,13,3,Purple,39
+2025-08-11,Coloured Sheet,6,8,Black,48
+2025-08-11,Decoration Material,19,15,Purple,285
+2025-08-12,Pen,36,2,Yellow,72
+2025-08-12,Notebook,17,20,Green,340
+2025-08-12,Eraser,5,3,Blue,15
+2025-08-12,Coloured Sheet,26,8,Purple,208
+2025-08-12,Decoration Material,31,15,Black,465
+2025-08-13,Pen,29,2,Black,58
+2025-08-13,Notebook,14,20,Yellow,280
+2025-08-13,Eraser,6,3,Black,18
+2025-08-13,Coloured Sheet,38,8,Purple,304
+2025-08-13,Decoration Material,5,15,Yellow,75
+2025-08-14,Pen,10,2,Red,20
+2025-08-14,Notebook,27,20,Blue,540
+2025-08-14,Eraser,30,3,Purple,90
+2025-08-14,Coloured Sheet,4,8,Black,32
+2025-08-14,Decoration Material,7,15,Red,105
+2025-08-15,Pen,30,2,Purple,60
+2025-08-15,Notebook,4,20,Purple,80
+2025-08-15,Eraser,10,3,Green,30
+2025-08-15,Coloured Sheet,17,8,Yellow,136
+2025-08-15,Decoration Material,19,15,Green,285
+2025-08-16,Pen,11,2,Red,22
+2025-08-16,Notebook,19,20,Black,380
+2025-08-16,Eraser,25,3,Yellow,75
+2025-08-16,Coloured Sheet,13,8,Blue,104
+2025-08-16,Decoration Material,32,15,Red,480
+2025-08-17,Pen,11,2,Purple,22
+2025-08-17,Notebook,3,20,Black,60
+2025-08-17,Eraser,12,3,Black,36
+2025-08-17,Coloured Sheet,27,8,Purple,216
+2025-08-17,Decoration Material,27,15,Yellow,405
+2025-08-18,Pen,30,2,Green,60
+2025-08-18,Notebook,28,20,Blue,560
+2025-08-18,Eraser,36,3,Yellow,108
+2025-08-18,Coloured Sheet,25,8,Green,200
+2025-08-18,Decoration Material,10,15,Yellow,150
+2025-08-19,Pen,12,2,Blue,24
+2025-08-19,Notebook,40,20,Green,800
+2025-08-19,Eraser,9,3,Purple,27
+2025-08-19,Coloured Sheet,26,8,Blue,208
+2025-08-19,Decoration Material,12,15,Blue,180
+2025-08-20,Pen,34,2,Yellow,68
+2025-08-20,Notebook,3,20,Black,60
+2025-08-20,Eraser,5,3,Green,15
+2025-08-20,Coloured Sheet,13,8,Green,104
+2025-08-20,Decoration Material,22,15,Red,330
+2025-08-21,Pen,30,2,Blue,60
+2025-08-21,Notebook,30,20,Green,600
+2025-08-21,Eraser,23,3,Green,69
+2025-08-21,Coloured Sheet,40,8,Green,320
+2025-08-21,Decoration Material,38,15,Green,570
+2025-08-22,Pen,26,2,Red,52
+2025-08-22,Notebook,24,20,Green,480
+2025-08-22,Eraser,15,3,Red,45
+2025-08-22,Coloured Sheet,4,8,Yellow,32
+2025-08-22,Decoration Material,29,15,Red,435
+2025-08-23,Pen,18,2,Purple,36
+2025-08-23,Notebook,37,20,Blue,740
+2025-08-23,Eraser,19,3,Red,57
+2025-08-23,Coloured Sheet,31,8,Yellow,248
+2025-08-23,Decoration Material,13,15,Purple,195
+2025-08-24,Pen,33,2,Yellow,66
+2025-08-24,Notebook,17,20,Blue,340
+2025-08-24,Eraser,29,3,Red,87
+2025-08-24,Coloured Sheet,8,8,Blue,64
+2025-08-24,Decoration Material,35,15,Red,525
+2025-08-25,Pen,5,2,Red,10
+2025-08-25,Notebook,31,20,Yellow,620
+2025-08-25,Eraser,25,3,Purple,75
+2025-08-25,Coloured Sheet,4,8,Purple,32
+2025-08-25,Decoration Material,22,15,Black,330
+2025-08-26,Pen,15,2,Black,30
+2025-08-26,Notebook,10,20,Red,200
+2025-08-26,Eraser,12,3,Purple,36
+2025-08-26,Coloured Sheet,10,8,Purple,80
+2025-08-26,Decoration Material,20,15,Purple,300
+2025-08-27,Pen,20,2,Yellow,40
+2025-08-27,Notebook,22,20,Yellow,440
+2025-08-27,Eraser,20,3,Black,60
+2025-08-27,Coloured Sheet,21,8,Purple,168
+2025-08-27,Decoration Material,37,15,Green,555
+2025-08-28,Pen,30,2,Blue,60
+2025-08-28,Notebook,14,20,Green,280
+2025-08-28,Eraser,3,3,Green,9
+2025-08-28,Coloured Sheet,30,8,Purple,240
+2025-08-28,Decoration Material,33,15,Black,495
+2025-08-29,Pen,35,2,Blue,70
+2025-08-29,Notebook,12,20,Green,240
+2025-08-29,Eraser,6,3,Blue,18
+2025-08-29,Coloured Sheet,22,8,Purple,176
+2025-08-29,Decoration Material,10,15,Black,150
+2025-08-30,Pen,29,2,Purple,58
+2025-08-30,Notebook,32,20,Green,640
+2025-08-30,Eraser,13,3,Green,39
+2025-08-30,Coloured Sheet,22,8,Purple,176
+2025-08-30,Decoration Material,21,15,Purple,315
+2025-08-31,Pen,19,2,Yellow,38
+2025-08-31,Notebook,28,20,Yellow,560
+2025-08-31,Eraser,7,3,Blue,21
+2025-08-31,Coloured Sheet,36,8,Blue,288
+2025-08-31,Decoration Material,24,15,Yellow,360
+2025-09-01,Pen,32,2,Black,64
+2025-09-01,Notebook,23,20,Purple,460
+2025-09-01,Eraser,9,3,Purple,27
+2025-09-01,Coloured Sheet,8,8,Purple,64
+2025-09-01,Decoration Material,28,15,Black,420
